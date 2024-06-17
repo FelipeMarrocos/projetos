@@ -1,0 +1,21 @@
+
+/* HEADER */
+
+.estrela {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.estrela-favorita {
+    color: gold;
+}
+
+.estrela-nao-favorita {
+    color: grey;
+}
+
+h6{
+    color: black;
+}
+
+
